@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-0ce7b80166a4.js"></script>
   
 
-  <title>ideahold.github.io/index.html at main · ideahold/ideahold.github.io</title>
+  <title>ideahold.github.io/app.js at main · ideahold/ideahold.github.io</title>
 
 
 
@@ -77,7 +77,7 @@
 
     
 
-  <meta name="request-id" content="D251:89C0:32AEFDA:34DB18E:63FB6812" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2ea9d6ef728126530733695884ac299234bf9d5825314dc60d122d9161a32504" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9pZGVhaG9sZC9pZGVhaG9sZC5naXRodWIuaW8iLCJyZXF1ZXN0X2lkIjoiRDI1MTo4OUMwOjMyQUVGREE6MzREQjE4RTo2M0ZCNjgxMiIsInZpc2l0b3JfaWQiOiIxNzQ1MTk1NTQ2NDgyMzM0NDc2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="1c3d6f32bdb11a0e54fa12768560eb3779c85a7211ded53934874f0e975efa8b" data-turbo-transient="true" />
+  <meta name="request-id" content="D251:89C0:32B8139:34E48D5:63FB6837" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2ea9d6ef728126530733695884ac299234bf9d5825314dc60d122d9161a32504" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9pZGVhaG9sZC9pZGVhaG9sZC5naXRodWIuaW8iLCJyZXF1ZXN0X2lkIjoiRDI1MTo4OUMwOjMyQjgxMzk6MzRFNDhENTo2M0ZCNjgzNyIsInZpc2l0b3JfaWQiOiIxNzQ1MTk1NTQ2NDgyMzM0NDc2IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="1d7ee779dfaf7bff355039ccfc8331e2c9ca27d0d6c5f5b27e322f162acb277c" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:525002796" data-turbo-transient>
@@ -116,11 +116,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e4ef3edc16c33384d64a25a440003e20bf5495df10290c324ab9d65fa5b5d97b/ideahold/ideahold.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ideahold.github.io/index.html at main · ideahold/ideahold.github.io" /><meta name="twitter:description" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/e4ef3edc16c33384d64a25a440003e20bf5495df10290c324ab9d65fa5b5d97b/ideahold/ideahold.github.io" /><meta property="og:image:alt" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ideahold.github.io/index.html at main · ideahold/ideahold.github.io" /><meta property="og:url" content="https://github.com/ideahold/ideahold.github.io" /><meta property="og:description" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/e4ef3edc16c33384d64a25a440003e20bf5495df10290c324ab9d65fa5b5d97b/ideahold/ideahold.github.io" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ideahold.github.io/app.js at main · ideahold/ideahold.github.io" /><meta name="twitter:description" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/e4ef3edc16c33384d64a25a440003e20bf5495df10290c324ab9d65fa5b5d97b/ideahold/ideahold.github.io" /><meta property="og:image:alt" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ideahold.github.io/app.js at main · ideahold/ideahold.github.io" /><meta property="og:url" content="https://github.com/ideahold/ideahold.github.io" /><meta property="og:description" content="Contribute to ideahold/ideahold.github.io development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/47253334/ws?session=eyJ2IjoiVjMiLCJ1Ijo0NzI1MzMzNCwicyI6MTAyMTM5NDgwNCwiYyI6Mzc0NTM3NDE4MCwidCI6MTY3NzQyMDU2Nn0=--23546e7579a70e095704053c249441416379a642ebd8bc15470ec9a191b2bbf2" data-refresh-url="/_alive" data-session-id="037ca28ffbf39f25bc5c48038c3eb386fe6d87ef90dcb151602bd5bb2b0d798d">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/47253334/ws?session=eyJ2IjoiVjMiLCJ1Ijo0NzI1MzMzNCwicyI6MTAyMTM5NDgwNCwiYyI6NDI3Nzc2MTIwNCwidCI6MTY3NzQyMDYwNX0=--d5e91aef4499e367d7b7fc87441d605435c56083d715c6c9562b65b18833156e" data-refresh-url="/_alive" data-session-id="037ca28ffbf39f25bc5c48038c3eb386fe6d87ef90dcb151602bd5bb2b0d798d">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -150,7 +150,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/ideahold/ideahold.github.io/blob/main/index.html" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/ideahold/ideahold.github.io/blob/main/app.js" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -245,7 +245,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="D5uGxP3Ne81jc0eiYYRlFVoNq4H-f6a14EbUu1FDM2yxikG84z9q8A8TQ_6greifOG7OF_yKa4-fe7049JBHiQ" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="ZcprD5KS7dobW5bBl4eqTGs2cZ7hrUF9-tBBaOMztfHb26x3jGD853c7kp1WrifGCVUUCONYjEeF7SjrRuDBFA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -444,7 +444,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;TereshhenkoEV&quot;,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="2182765d2de0ba29e41d40f8c8db279693e33770f9ac9c9f7063a9b13f970799" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;TereshhenkoEV&quot;,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="3e70964ac28fec76bdda278e3f021b7d63938e0ad7534a2a43039e0fa2dfa38c" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -452,7 +452,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/47253334?s=40&amp;v=4" width="20" height="20" alt="@TereshhenkoEV" />
       TereshhenkoEV
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="E28stYRRAZEu1M8Af0hjGprkNFlEeSo3R7VYVBykIjfuKUAJX865GWQmmjvFKWnBYCfL1QQv3vJ74daZxj--5Q" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5RD_BnLMoEPMhgBRXu_kn2a7o23yajstzRL-oVPdy0AYVpO6qVMYy4Z0VWrkju5EnHhc4bI8z-jxRnBsiUZXkg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -487,7 +487,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDcyNTMzMzQiLCJ0IjoxNjc3NDIwNTY2fQ==--83291607d64a39f8f51b4021bfd3fcdc4936f69236f27c4f7250bbacda88ebed" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDcyNTMzMzQiLCJ0IjoxNjc3NDIwNjA1fQ==--e58ae96a29f7265d0a8bcabce7203ee85a45e5995145ea2f1ffaf600a950068b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -630,7 +630,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDcyNTMzMzQiLCJ0IjoxNjc3NDIwNTY2fQ==--83291607d64a39f8f51b4021bfd3fcdc4936f69236f27c4f7250bbacda88ebed" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDcyNTMzMzQiLCJ0IjoxNjc3NDIwNjA1fQ==--e58ae96a29f7265d0a8bcabce7203ee85a45e5995145ea2f1ffaf600a950068b" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -647,7 +647,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/ideahold/ideahold.github.io/blob/main/index.html
+      return-to=/ideahold/ideahold.github.io/blob/main/app.js
       user-id="47253334"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -804,7 +804,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-0f28af64-8986-438d-bafd-e5cd59e1c9a7" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-8d672473-137d-4c8c-9b35-1e4f46d6ad44" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1616,7 +1616,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="a4c292410ca3bb1b7b5aafc6b0ce3d665dbbda41ffdf7bfb7aab7c32ddabbac5" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="e1b87a00c91ec6834feac7fd7db0f4809a27b09fa255e8b17d7936da922a267d" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1668,7 +1668,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AIo9arp1WewIXriVBrx6IzOmkvGSTXBLV4miHnvhbyf6Ef0mceHIUdlT34J9Rvf6tnEGZk7Bc8yAy6yYNL8F-Q" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="otq_pEZIsForoSLFd92xvEwK0K2IkuTkaMvbFKqRVGNYQX_ojdwh5_qsRdIMJzxlyd1EOlQe52O_idWS5c8-vQ" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="525002796">
 
@@ -1796,7 +1796,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cEQ7bA8FO9DsGWQoJbYcUkEeoEJbPHkYTzBbPs7KFo6K3_sgxJGqbT0UAz9eTJGLxMk01Yewep-YclW4gZR8UA" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="A5-G_fZVoFiKCRyauvI7a0BMl1u6SNQ9Bef_T77Y42b5BEaxPcEx5VsEe43BCLayxZsDzGbE17rSpfHJ8YaJuA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="525002796">
 
@@ -1948,11 +1948,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/ideahold/ideahold.github.io/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="ab1efc6558d60a821df09e64144552ef46d67b9383f4e630f9ca2fde3f4df8f6" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/ideahold/ideahold.github.io/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="354aa346b7ec5fa657f6738d53f424e574866e31b9dc89fa98f7dfbbf23f1120" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="13" data-view-component="true" class="Counter">13</span>
-</a>    <tool-tip id="tooltip-790b70d4-563d-4ddc-8175-b3c249347885" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of ideahold/ideahold.github.io</tool-tip>
+</a>    <tool-tip id="tooltip-8461698e-774e-42d8-954f-f54bf6c76dfe" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of ideahold/ideahold.github.io</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-525002796" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1967,13 +1967,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7ac2dd">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7dd17a">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7ac2dd"
+        id="filter-menu-7dd17a"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2015,10 +2015,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ideahold/ideahold.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="d0YxKkYWe1IQhdG9x3WEjP03V93_E8mqIQSNaB0JDeD57cdoTceyO_7T8iQASaXxP8N8q0uCzzRzbgl_fo-CqA" autocomplete="off" />
-          <input type="hidden" value="prHmwbGJ8NdUyquaY6245ad3FYEvlkk2iyCIsX4DHy8oGhCDulg5vrqciAOkkZmYZYM-95sHT6jZSgymHYWQZw" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/ideahold/ideahold.github.io/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_PajB_1PaJDWeOTIVkprssnIoGTvUyRXIf55JERQGHxyXVVF9p6h-Tgux1GRdkrPCzyLElvCIslzlP0zJ9aXNA" autocomplete="off" />
+          <input type="hidden" value="VoEVahKelXjd8ZC2uUmCd9sCvoYawYh9Dujsuy6qFCvYKuMoGU9cETOnsy9-daMKGfaV8K5QjuNcgmisTSybYw" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="20fba2c1963ada3e92866b031051061f304fa19a4a8eb7cb4f85edfcbc6b91b6" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (6)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="257dc83fb142a5d23b077f09f862de7c5b0b08c8687dad27cd9502dc4622280c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (6)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2036,13 +2036,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cfd663">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-15b002">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cfd663"
+        id="filter-menu-15b002"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2063,9 +2063,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ideahold/ideahold.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hZFAXsi3WH-nlZ5ooOwlq5fO5TLGr1TFwjJhqH0yLFRLkx-_6qaDjdraj6at0iuPAHunPxTN0qG4sqDHTiqc1A" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/ideahold/ideahold.github.io/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jRTbRny4mAVfFq7cZt0_DI-3RCLxDMel6Y9fBYFRXQRDFoSnXqlD9yJZvxJr4zEoGAIGLyNuQcGTD55qsknthA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="d84d05c8eaa3a284eb5a96660b6af5bb31de10a3f54ba4034928512296796ec8" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (6)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="8e61e16629f1213005f5bc11fd17d52a9130e6264b7ff33f00bb1d3d785a0015" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (6)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2083,13 +2083,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cfd663">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-15b002">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-cfd663"
+        id="filter-menu-15b002"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2276,7 +2276,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ideahold/ideahold.github.io/blob/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ideahold/ideahold.github.io/blob/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2284,7 +2284,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="66b800a20eeddea9ff61abc6fba9a18bfd4c1c8d5ec699281bda11c7dad7854c">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="6e80a6f48f329023881ad3d9dfc161a5bf295574e6d62665256b73671764ad41">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2365,7 +2365,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ideahold/ideahold.github.io/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ideahold/ideahold.github.io/blob/{{ urlEncodedRefName }}/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2407,7 +2407,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/ideahold/ideahold.github.io/blob/{{ urlEncodedRefName }}/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/ideahold/ideahold.github.io/blob/{{ urlEncodedRefName }}/app.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2468,7 +2468,48 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/ideahold/ideahold.github.io"><span>ideahold.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/ideahold/ideahold.github.io"><span>ideahold.github.io</span></a></span></span><span class="separator">/</span><strong class="final-path">app.js</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:525002796,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="023432f91e5ec6f28c59259bad88e7d98c4f5cd2c618ac041f9f8077db49de83" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/ideahold/ideahold.github.io/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2479,7 +2520,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="87ccce5a4f65de7436a89f154fc272bab97a6d2591304a47a5dbffb065977344" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/ideahold/ideahold.github.io/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="0dbed825156db09dc0a00fb262ad34b53c8f05f68c417ebd8c83e2409080e779" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/ideahold/ideahold.github.io/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2489,15 +2530,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="app.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ideahold/ideahold.github.io/blob/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ideahold/ideahold.github.io/blob/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2529,80 +2576,17 @@
     <include-fragment src="/ideahold/ideahold.github.io/spoofed_commit_check/5dbf792bcee651a2340eccaa8eadb02300a95272" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  
-  <div class="Box-header Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/ideahold/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ideahold"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/72509800?s=48&amp;v=4" width="24" height="24" alt="@ideahold" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/ideahold/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ideahold">ideahold</a>
+  <include-fragment src="/ideahold/ideahold.github.io/contributors/main/app.js" class="commit-loader">
+    <div class="Box-header d-flex flex-items-center">
+      <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+      <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
+    </div>
 
-              <span class="markdown-title">
-                <a data-pjax="true" title="Add files via upload" class="Link--secondary" href="/ideahold/ideahold.github.io/commit/5cc3cacb76e97348f45fd1f212e9fac8c979acea">Add files via upload</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/ideahold/ideahold.github.io/commit/5cc3cacb76e97348f45fd1f212e9fac8c979acea/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
-        </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/ideahold/ideahold.github.io/commit/5cc3cacb76e97348f45fd1f212e9fac8c979acea" data-pjax>5cc3cac</a>
-            <span itemprop="dateModified"><relative-time datetime="2022-09-13T14:29:39Z" class="no-wrap">Sep 13, 2022</relative-time></span>
-          </span>
-
-          <a data-pjax href="/ideahold/ideahold.github.io/commits/main/index.html" class="ml-3 no-wrap Link--primary no-underline">
-            <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
-    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
-</svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
-        </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
-      <summary class="Link--primary">
-        <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
-    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
-</svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/ideahold/ideahold.github.io/contributors-list/main/index.html" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
-</svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment>
-          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-        </include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-</div>
+    <div class="Box-body d-flex flex-items-center" >
+      <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+      <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+    </div>
+</include-fragment></div>
 
 
 
@@ -2626,23 +2610,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      47 lines (43 sloc)
+      101 lines (79 sloc)
       <span class="file-info-divider"></span>
-    1.26 KB
+    1.96 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/ideahold/ideahold.github.io/raw/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html" href="/ideahold/ideahold.github.io/raw/main/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/ideahold/ideahold.github.io/blame/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html" href="/ideahold/ideahold.github.io/blame/main/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/ideahold/ideahold.github.io/raw/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js" href="/ideahold/ideahold.github.io/raw/main/app.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/ideahold/ideahold.github.io/blame/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js" href="/ideahold/ideahold.github.io/blame/main/app.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ideahold/ideahold.github.io/edit/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="k-RhT0mpQRupdD2uyqaX5usCVihwfI57VQEwjGPqPpye5LazOi612t4Bg79HlWn7pshOhVGKxDR_NOwtMGb_0w" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/ideahold/ideahold.github.io/edit/main/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="v-shjvEFC5hAlAaiOdaxOLZAnNt_b4NFppUxwMhWgENX8JIegcvK_QQbSiykWSNUaP9FcSCy8diDav7WIshv8A" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2652,7 +2636,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ideahold/ideahold.github.io/edit/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="pRZ0yoX_dn-XuMIy4c3-kuCykgzb2E9EDKH8bBt5ZfCoFqM29niCvuDNfCNs_gCPrXiKofouBQsmlCDNSPWkvw" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/ideahold/ideahold.github.io/edit/main/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KhsfU8SizJHKWYad2onQjRSHEVkc8i8StDudoTxVW9HCAKzDtGwN9I7WyhNHBkLhyjjI80MvXY-RxFK31su0Yg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2671,10 +2655,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ideahold/ideahold.github.io/raw/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ideahold/ideahold.github.io/raw/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="d2ef6994b893e3d3b6e73b0e0d17cb33cf608a4443afd258a3d53a9597c6ccc4" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="b9dd1635b4f417370ec34fba5f712f2b4c45e23af8f1273fb1e98e27d3dc0e58" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2699,7 +2683,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ideahold/ideahold.github.io/delete/main/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xbPcszFV25Y_2erUp_LFaxvE4P7gX9APk2x7w0-N1JzQbQNF6dJskrctQpElzFm9SbNxLn-d__vvpKS3t_bLdQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/ideahold/ideahold.github.io/delete/main/app.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="04PmDfsVrcpUhpR2d3zi4tbV9PDJBVva-a-Jwm4ZhlPrkZIS2LAnvt78j_9lkT0EZjqOdRycgiH9Yp_LQaBiLw" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2732,15 +2716,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/ideahold/ideahold.github.io/raw/main/index.html">
+            <a class="dropdown-item" href="/ideahold/ideahold.github.io/raw/main/app.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/ideahold/ideahold.github.io/raw/main/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/ideahold/ideahold.github.io/raw/main/app.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/index.html&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="d2ef6994b893e3d3b6e73b0e0d17cb33cf608a4443afd258a3d53a9597c6ccc4">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525002796,&quot;originating_url&quot;:&quot;https://github.com/ideahold/ideahold.github.io/blob/main/app.js&quot;,&quot;user_id&quot;:47253334}}" data-hydro-click-hmac="b9dd1635b4f417370ec34fba5f712f2b4c45e23af8f1273fb1e98e27d3dc0e58">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2763,20 +2747,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/ideahold/ideahold.github.io/blame/main/index.html">
+              <a class="dropdown-item" href="/ideahold/ideahold.github.io/blame/main/app.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/ideahold/ideahold.github.io/edit/main/index.html">Edit file</a>
+                <a class="dropdown-item" href="/ideahold/ideahold.github.io/edit/main/app.js">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:525002796,&quot;actor_id&quot;:47253334,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/ideahold/ideahold.github.io/delete/main/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/ideahold/ideahold.github.io/delete/main/app.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2785,7 +2769,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-javascript  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2813,197 +2797,427 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="index.html">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="app.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>tg</span> <span class=pl-c1>=</span> <span class=pl-smi>window</span><span class=pl-kos>.</span><span class=pl-c1>Telegram</span><span class=pl-kos>.</span><span class=pl-c1>WebApp</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-en>expand</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>charset</span>=&quot;<span class=pl-s>UTF-8</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>textColor</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;#FFFFFF&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>style.css</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>color</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;#2cab37&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Document<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn1</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn1&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>container</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn2</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn2&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>inner</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn3</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn3&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn4</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn4&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn5</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn5&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn1</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>btn6</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;btn6&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn1</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">			    <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn2</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">		    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 1!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">			    <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn3</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;1&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn4</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn2</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn5</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>item</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 2!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>img</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>1.png</span>&quot; <span class=pl-c1>alt</span>=&quot;<span class=pl-s>Burger</span>&quot; <span class=pl-c1>class</span>=&quot;<span class=pl-s>img</span>&quot;<span class=pl-kos>&gt;</span></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;2&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">				<span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>btn6</span>&quot;<span class=pl-kos>&gt;</span>Add<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">			<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">		<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>usercard</span>&quot; <span class=pl-c1>id</span>=&quot;<span class=pl-s>usercard</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn3</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">	</td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://telegram.org/js/telegram-web-app.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>app.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 3!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;3&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line"><span class=pl-c>&lt;!-- &lt;script src=&quot;https://telegram.org/js/telegram-web-app.js&quot;&gt;&lt;/script&gt; --&gt;</span></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn4</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 4!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;4&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn5</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 5!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;5&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>btn6</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-c1>isVisible</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>hide</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">	<span class=pl-k>else</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>setText</span><span class=pl-kos>(</span><span class=pl-s>&quot;Вы выбрали товар 6!&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>item</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;6&quot;</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">		<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>MainButton</span><span class=pl-kos>.</span><span class=pl-en>show</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">	<span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line"><span class=pl-v>Telegram</span><span class=pl-kos>.</span><span class=pl-c1>WebApp</span><span class=pl-kos>.</span><span class=pl-en>onEvent</span><span class=pl-kos>(</span><span class=pl-s>&quot;mainButtonClicked&quot;</span><span class=pl-kos>,</span> <span class=pl-k>function</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">	<span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-en>sendData</span><span class=pl-kos>(</span><span class=pl-s1>item</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>usercard</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;usercard&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>p</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&quot;p&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>p</span><span class=pl-kos>.</span><span class=pl-c1>innerText</span> <span class=pl-c1>=</span> <span class=pl-s>`<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>initDataUnsafe</span><span class=pl-kos>.</span><span class=pl-c1>user</span><span class=pl-kos>.</span><span class=pl-c1>first_name</span><span class=pl-kos>}</span></span></span></td>
+        </tr>
+        <tr>
+          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line"><span class=pl-s><span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>tg</span><span class=pl-kos>.</span><span class=pl-c1>initDataUnsafe</span><span class=pl-kos>.</span><span class=pl-c1>user</span><span class=pl-kos>.</span><span class=pl-c1>last_name</span><span class=pl-kos>}</span></span>`</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>usercard</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>p</span><span class=pl-kos>)</span><span class=pl-kos>;</span> </td>
+        </tr>
+        <tr>
+          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
   </table>
 </div>
@@ -3029,7 +3243,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ideahold/ideahold.github.io/blame/5dbf792bcee651a2340eccaa8eadb02300a95272/index.html">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/ideahold/ideahold.github.io/blame/5dbf792bcee651a2340eccaa8eadb02300a95272/app.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/ideahold/ideahold.github.io/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -3051,6 +3265,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/ideahold/ideahold.github.io/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
