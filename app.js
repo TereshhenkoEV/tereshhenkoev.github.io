@@ -19,8 +19,8 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 1!");
-		item = "1";
+		tg.MainButton.setText("100");
+		item = "100";
 		tg.MainButton.show();
 	}
 });
@@ -30,8 +30,8 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 2!");
-		item = "2";
+		tg.MainButton.setText("200");
+		item = "200";
 		tg.MainButton.show();
 	}
 });
@@ -41,8 +41,8 @@ btn3.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 3!");
-		item = "3";
+		tg.MainButton.setText("300");
+		item = "300";
 		tg.MainButton.show();
 	}
 });
@@ -52,8 +52,8 @@ btn4.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 4!");
-		item = "4";
+		tg.MainButton.setText("400");
+		item = "400";
 		tg.MainButton.show();
 	}
 });
@@ -63,8 +63,8 @@ btn5.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 5!");
-		item = "5";
+		tg.MainButton.setText("500");
+		item = "500";
 		tg.MainButton.show();
 	}
 });
@@ -74,8 +74,8 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 6!");
-		item = "6";
+		tg.MainButton.setText("600");
+		item = "600";
 		tg.MainButton.show();
 	}
 });
