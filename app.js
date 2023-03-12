@@ -20,7 +20,7 @@ btn1.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("100");
-		item = "100";
+		item = "10000";
 		tg.MainButton.show();
 	}
 });
@@ -31,7 +31,7 @@ btn2.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("200");
-		item = "200";
+		item = "20000";
 		tg.MainButton.show();
 	}
 });
@@ -42,7 +42,7 @@ btn3.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("300");
-		item = "300";
+		item = "30000";
 		tg.MainButton.show();
 	}
 });
@@ -53,7 +53,7 @@ btn4.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("400");
-		item = "400";
+		item = "40000";
 		tg.MainButton.show();
 	}
 });
@@ -64,7 +64,7 @@ btn5.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("500");
-		item = "500";
+		item = "50000";
 		tg.MainButton.show();
 	}
 });
@@ -75,14 +75,14 @@ btn6.addEventListener("click", function(){
 	}
 	else {
 		tg.MainButton.setText("600");
-		item = "600";
+		item = "60000";
 		tg.MainButton.show();
 	}
 });
 
 
 Telegram.WebApp.onEvent("mainButtonClicked", function(){
-	tg.sendData(item*100);
+	tg.sendData(item);
 });
 
 let usercard = document.getElementById("usercard");
